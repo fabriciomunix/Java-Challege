@@ -2,7 +2,7 @@
 
 Este documento explica a estrutura e o funcionamento do código presente no projeto Aurawave Java.
 
-## Estrutura de Pastas banana 
+## Estrutura de Pastas 
 
 - `pom.xml`: Arquivo de configuração do Maven, responsável por gerenciar as dependências do projeto.
 - `src/main/java/com/aurawave/`: Pacote principal do código fonte.
